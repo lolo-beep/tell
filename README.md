@@ -1,0 +1,2 @@
+# tell
+Lwsh go
